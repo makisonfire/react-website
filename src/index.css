@@ -43,7 +43,7 @@ body {
 
 /* ******** General Styles ********* */
 
-.cotainer {
+.container {
     width: var(--container-width-lg);
     margin: 0 auto;
 }
