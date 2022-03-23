@@ -7,6 +7,7 @@ import Nav from './components/nav/Nav'
 import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
 import Portfolio from './components/portfolio/Portfolio'
+import Testimonials from './components/testimonials/Testimonials'
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
       <Experience />
       <Service />
       <Portfolio />
+      <Testimonials />
       <Contact />
       <Footer />
     </>
